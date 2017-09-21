@@ -1,0 +1,9 @@
+56f77bbc1b45b7215f34dfbf40435100 *DESCRIPTION
+9bb57f4bdb060feff0e44fe0cf365cc4 *NAMESPACE
+546f8cd030b5f404a17de3e344394a5b *R/state.R
+af7ed390866ddd3b193926db7b6dec66 *R/switch.R
+5aee55bfa5afa32b3df727a5d7c02421 *R/utils.R
+647af4af064d75d706468e3dcd0b4d17 *man/wemo_OFF.Rd
+b7c7085b8e9b4d136db09bbe6055958c *man/wemo_ON.Rd
+3493b9d2d9c7616fc07976d64311922d *man/wemo_PORT.Rd
+de6aade5156c84c4da2b41c5cb39c126 *man/wemo_STATE.Rd
